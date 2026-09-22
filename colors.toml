@@ -1,0 +1,35 @@
+mode = "dark"
+
+# Accent is the warm cream from the Gruvbox-Retro GTK theme (matches lady.png's
+# dominant tones: #32302f base, #fbf1c7 highlights, #3c3836 lines).
+accent = "#d4be98"
+selection = "#45403d"
+muted = "#5a524c"
+
+# Gruvbox Material "hard" background - this is what the CachyOS Plasma desktop
+# uses (window_bg_color #1d2021), one step darker than Omarchy's built-in gruvbox.
+background = "#1d2021"
+dark_background = "#17191a"
+darker_background = "#131415"
+lighter_background = "#282828"
+
+foreground = "#ddc7a1"
+dark_foreground = "#7c6f64"
+light_foreground = "#d4be98"
+bright_foreground = "#ddc7a1"
+
+red = "#ea6962"
+yellow = "#d8a657"
+orange = "#e78a4e"
+green = "#a9b665"
+cyan = "#89b482"
+blue = "#7daea3"
+magenta = "#d3869b"
+brown = "#70432e"
+
+bright_red = "#ea6962"
+bright_yellow = "#d8a657"
+bright_green = "#a9b665"
+bright_cyan = "#89b482"
+bright_blue = "#7daea3"
+bright_magenta = "#d3869b"
